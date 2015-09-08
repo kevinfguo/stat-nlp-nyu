@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Kevin
+   last: Guo
+email: kfg217@nyu.edu
+leaderboard: KG
